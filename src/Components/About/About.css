@@ -4,7 +4,7 @@
 }
 .about__name {
   color: #AFD198;
-  font-size: 45px;
+  font-size: 53px;
 }
 .about > :nth-child(2) {
   margin-top: 1.2em;
@@ -32,7 +32,7 @@
   margin-right: 1em;
 }
 .mobileHead{
-  font-size: 25px;
+  font-size: 37px;
 }
 @media (max-width: 600px) {
   .mobileHead{
