@@ -8,7 +8,9 @@ import {
   SiExpress,
   SiRedis,
   SiTailwindcss,
-  SiNetlify
+  SiNetlify,
+  SiFirebase,
+  SiNextdotjs
 } from "react-icons/si";
 import { DiCss3, DiMongodb } from "react-icons/di";
 import { SiJavascript, SiHeroku } from "react-icons/si";
@@ -52,6 +54,22 @@ export const Techstacks = () => {
           <div>
             <VscGithub />
             <h5>Github</h5>
+          </div>
+          <div>
+             <SiTailwindcss/>
+             <h5>TailwindCss</h5>
+          </div>
+          <div>
+             <SiRedux/>
+             <h5>Redux</h5>
+          </div>
+          <div>
+             <SiFirebase/>
+             <h5>Firebase</h5>
+          </div>
+          <div>
+             <SiNextdotjs/>
+             <h5>NextJs</h5>
           </div>
         </div>
       </div>

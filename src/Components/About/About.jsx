@@ -21,9 +21,8 @@ export const About = () => {
         </h1>
         <Type />
         <p className="about__desc" data-aos="fade-right">
-        Savy Software là một công ty thiết kế website hàng đầu, chuyên cung cấp các giải pháp thiết kế web độc đáo và chất lượng cao cho các doanh nghiệp và tổ chức trên khắp thế giới. Với sự kết hợp của sự sáng tạo, kỹ năng kỹ thuật và hiểu biết sâu sắc về nhu cầu kinh doanh, chúng tôi đảm bảo mỗi dự án được thực hiện với sự chuyên nghiệp và tận tâm.
         </p>
-        <div className="about__contact center">
+        {/* <div className="about__contact center">
           <a
             href="#"
             aria-label="github"
@@ -69,7 +68,7 @@ export const About = () => {
           >
             <TwitterIcon />
           </a>
-        </div>
+        </div> */}
       </div>
       <Introduction />
       <Timeline />
