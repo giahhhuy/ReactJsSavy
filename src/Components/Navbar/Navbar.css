@@ -4,7 +4,7 @@
 }
 .nav__list-item {
   margin-left: 1.5em;
-  font-family: 'Be Vietnam', sans-serif;
+  /* font-family: '', sans-serif; */
 }
 .app .nav__hamburger {
   display: none;
