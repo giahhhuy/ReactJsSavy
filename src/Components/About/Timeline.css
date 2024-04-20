@@ -1,3 +1,4 @@
+
 .mainsection {
   width: 100%;
 }
@@ -36,6 +37,36 @@
   margin-bottom: 0px; /* Add some space below the image */
   margin-top: 15px;
 }
-
-
-
+.timeline-image4 {
+  width: 160px; /* Adjust the width as needed */
+  height: 150px; /* Maintain aspect ratio */
+  border-radius: 50%; /* Make it circular */
+  margin-bottom: 0px; /* Add some space below the image */
+  margin-top: 15px;
+}
+.Hieu {
+    margin-top: 20px;
+    font-size: 18px;
+    color: var(--clr-primary);
+}
+.Minh {
+  margin-top: 20px;
+    font-size: 18px;
+    color: var(--clr-primary);
+}
+.Huy {
+  margin-top: 20px;
+    font-size: 18px;
+    color: var(--clr-primary);
+}
+.lam {
+  margin-top: 20px;
+    font-size: 18px;
+    color: var(--clr-primary);
+}
+.vertical-timeline-element-content p {
+  font-size: 13px;
+  font-style: italic;
+  font-size: .8125rem;
+  font-weight: 500;
+}

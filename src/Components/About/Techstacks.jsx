@@ -10,7 +10,8 @@ import {
   SiTailwindcss,
   SiNetlify,
   SiFirebase,
-  SiNextdotjs
+  SiNextdotjs,
+  SiIota
 } from "react-icons/si";
 import { DiCss3, DiMongodb } from "react-icons/di";
 import { SiJavascript, SiHeroku } from "react-icons/si";
@@ -70,8 +71,8 @@ export const Techstacks = () => {
              <h5>Firebase</h5>
           </div>
           <div>
-             <SiNextdotjs/>
-             <h5>NextJs</h5>
+             <SiIota/>
+             <h5>IoT</h5>
           </div>
         </div>
       </div>
