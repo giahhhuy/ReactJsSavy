@@ -17,7 +17,7 @@ export const About = () => {
     <>
       <div className="about center">
       <h1 data-aos="fade-right" className="mobileHead">
-  Chào mừng bạn đến với chúng tôi <span class="highlight">Savy Software</span>
+  Chào mừng bạn đến với <span class="highlight">Savy Software</span>
 </h1>
 
         <Type />
