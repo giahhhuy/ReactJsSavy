@@ -10,7 +10,7 @@
 }
 .about > :nth-child(2) {
   margin-top: 1.2em;
-  font-size: 2rem;
+  font-size: 25px;
   line-height: 1.2;
   color: var(--clr-fg-alt);
 }
@@ -62,7 +62,7 @@
 @media (max-width: 600px) {
   .mobileHead{
     align-content: center;
-    font-size: 25px;
+    font-size: 45px;
   }
   .app .about {
     align-items: flex-start;
@@ -76,6 +76,6 @@
   .mobileHead .highlight {
     color: #AFD198;
     display: inline-block;
-    font-size: 30px;
+    font-size: 50px;
   }
 }

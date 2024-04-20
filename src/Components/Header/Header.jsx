@@ -16,7 +16,7 @@ export const Header = () => {
             {/* <span>
               <img src={Image} alt="logo" />
             </span> */}
-            <span className="avyTech">Savy Software</span> {/* Áp dụng lớp hoặc id tương ứng */}
+            <span className="avyTech">SAVY SOFTWARE</span> {/* Áp dụng lớp hoặc id tương ứng */}
           </a>
         </h3>
         <Navbar />
