@@ -6,7 +6,7 @@
   color: #AFD198;
   font-size: 53px;
   
-  font-family: 'Be Vietnam', sans-serif;
+  font-family: 'Courrier new', sans-serif;
 }
 .about > :nth-child(2) {
   margin-top: 1.2em;
@@ -35,17 +35,34 @@
 }
 .mobileHead{
   font-size: 37px;
-  font-family: 'Be Vietnam', sans-serif;
+  font-family: 'Courrier new', sans-serif;
 }
+.mobileHead .highlight {
+  color: #AFD198;
+  display: inline-block;
+}
+
+
 @media (max-width: 991.98px){
   .mobileHead {
     font-size: 30px;
+  }
+  .about__name {
+    font-size: 40px;
+  }
+}
+@media (max-width: 767.98px){
+  .about__name {
+    font-size: 25px;
+  }
+  .mobileHead {
+    font-size: 20px;
   }
 }
 @media (max-width: 600px) {
   .mobileHead{
     align-content: center;
-    /* font-size: 30px; */
+    font-size: 25px;
   }
   .app .about {
     align-items: flex-start;
@@ -54,6 +71,11 @@
     align-items: center;
   }
   .about > :nth-child(2) {
-    font-size: 1.5rem;
+    font-size: 20px;
+  }
+  .mobileHead .highlight {
+    color: #AFD198;
+    display: inline-block;
+    font-size: 30px;
   }
 }

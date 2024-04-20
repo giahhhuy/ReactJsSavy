@@ -116,6 +116,7 @@
     flex-direction: column;
   }
 
+
 @media (max-width: 800px) {
   .project {
     flex-direction: column;

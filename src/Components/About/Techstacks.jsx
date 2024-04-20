@@ -21,7 +21,9 @@ export const Techstacks = () => {
   return (
     <>
       <div className="section main" data-aos="fade-right">
-        <h2 className="section__title different">Kỹ Năng</h2>
+      <h2 className="section__title">
+            Các <span className="different">Kĩ Năng</span>
+          </h2>
         <div className="techsection">
           <div>
             <SiJavascript />

@@ -22,7 +22,9 @@ export const Projects = () => {
   return (
     <>
       <div className="section">
-        <h2 className="section__title different">Dự án</h2>
+      <h2 className="section__title">
+            Dự Án Đã <span className="different">Thực Hiện</span>
+      </h2>
         <div className="allProjects">
           <div className="projects_container" data-aos="fade-right">
             <div className="project">
