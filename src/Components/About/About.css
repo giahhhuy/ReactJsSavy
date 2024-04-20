@@ -5,6 +5,8 @@
 .about__name {
   color: #AFD198;
   font-size: 53px;
+  
+  font-family: 'Be Vietnam', sans-serif;
 }
 .about > :nth-child(2) {
   margin-top: 1.2em;
@@ -33,6 +35,7 @@
 }
 .mobileHead{
   font-size: 37px;
+  font-family: 'Be Vietnam', sans-serif;
 }
 @media (max-width: 600px) {
   .mobileHead{

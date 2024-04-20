@@ -1,6 +1,7 @@
 .footer {
   text-align: center;
   color: var(--clr-primary);
+  font-size: 19px;
 }
 
 .footerBox{

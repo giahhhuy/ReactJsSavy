@@ -39,7 +39,7 @@ export const Navbar = () => {
               onClick={() => toggleNavList("#about")}
               className="link link--nav"
             >
-              Giới thiệu
+              About
             </a>
           </li>
           <li className="nav__list-item">

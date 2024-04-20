@@ -47,6 +47,11 @@
   color: var(--clr-fg-alt);
   margin-right: 0.5em;
 }
+.section__title,
+.introduction h4 {
+  font-family: 'Be Vietnam', sans-serif;
+}
+
 
 @media (max-width: 1022px) {
   .introduction {

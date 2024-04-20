@@ -4,12 +4,21 @@
 }
 .nav__list-item {
   margin-left: 1.5em;
+  font-family: 'Be Vietnam', sans-serif;
 }
 .app .nav__hamburger {
   display: none;
 }
 .nav__theme {
   margin-top: 0.4em;
+}
+.nav__list-item:nth-child(1) a,
+.nav__list-item:nth-child(2) a,
+.nav__list-item:nth-child(3) a,
+.nav__list-item:nth-child(4) a,
+.nav__list-item:nth-child(5) a {
+  font-weight: bold;
+  font-size: 18px;
 }
 
 @media (max-width: 600px) {
