@@ -15,5 +15,27 @@
   font-size: 1.1em;
   color: var(--clr-primary);
 }
+.timeline-image {
+  width: 150px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 50%; /* Make it circular */
+  margin-bottom: 0px; /* Add some space below the image */
+  margin-top: 15px;
+}
+.timeline-image2 {
+  width: 150px; /* Adjust the width as needed */
+  height: 150px; /* Maintain aspect ratio */
+  border-radius: 50%; /* Make it circular */
+  margin-bottom: 0px; /* Add some space below the image */
+  margin-top: 15px;
+}
+.timeline-image3 {
+  width: 150px; /* Adjust the width as needed */
+  height: 140px; /* Maintain aspect ratio */
+  border-radius: 50%; /* Make it circular */
+  margin-bottom: 0px; /* Add some space below the image */
+  margin-top: 15px;
+}
+
 
 

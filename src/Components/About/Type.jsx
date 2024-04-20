@@ -1,18 +1,21 @@
 import React from "react";
 import Typewriter from "typewriter-effect";
-import "./Type.css"; // Tạo một file CSS riêng để chứa các định dạng font chữ
+import "./Type.css";
 
 export const Type = () => {
   return (
     <>
-      <div className="type-wrapper"> {/* Bọc Typewriter trong một div để áp dụng font chữ */}
+      <div className="type-wrapper">
         <Typewriter
           options={{
-            strings: ["Thiết kế Website chuyên nghiệp chuẩn SEO", "Cung cấp các dịch vụ IoT", "Đội ngũ kĩ sư phần mềm chất lượng"],
+            strings: ["Các dịch vụ của chúng tôi","Thiết kế Website chuẩn SEO", "Lĩnh vực IoT", "Trí Tuệ Nhân Tạo AI", "Thiết kế đồ họa"],
             autoStart: true,
             loop: true,
-            typeSpeed: 0,
-            deleteSpeed: 50
+            typeSpeed: 20,
+            deleteSpeed: 50,
+            delay: 100,
+            cursor: "|", // Thay đổi con trỏ thành dấu gạch dưới
+            pauseFor: 0, // Dừng 2 giây trước khi viết lại chuỗi
           }}
         />
       </div>
