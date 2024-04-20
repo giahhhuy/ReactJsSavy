@@ -3,7 +3,7 @@
   margin-top: 3em;
 }
 .about__name {
-  color: #AFD198;
+  color: #A8DF8E;
   font-size: 53px;
   
   font-family: 'Courrier new', sans-serif;
@@ -38,7 +38,7 @@
   font-family: 'Courrier new', sans-serif;
 }
 .mobileHead .highlight {
-  color: #AFD198;
+  color: #A8DF8E;
   display: inline-block;
 }
 
@@ -74,7 +74,7 @@
     font-size: 20px;
   }
   .mobileHead .highlight {
-    color: #AFD198;
+    color: #A8DF8E;
     display: inline-block;
     font-size: 50px;
   }

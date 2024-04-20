@@ -60,7 +60,7 @@ export const Timeline = () => {
             >
               Bui Duc Lam
             </h3>
-            <a href="#"><img src="https://scontent.fhan14-1.fna.fbcdn.net/v/t1.6435-9/129137971_2730797367238379_8956348342316889437_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KNTkHoK-GMkAb64W6Oj&_nc_ht=scontent.fhan14-1.fna&oh=00_AfCzXE4IFy66csogW1V-ehnxX-gqPCke89iGAOn_bz4hBw&oe=664B1D92"className="timeline-image" alt="Lam"/></a>
+            <a href="#"><img src="https://i.imgur.com/ZVZUv7b.jpeg"className="timeline-image" alt="Lam"/></a>
             <h4
               className="vertical-timeline-element-subtitle"
               data-aos="fade-right"
@@ -148,7 +148,12 @@ Minh cũng có khả năng thiết kế cơ sở dữ liệu và tối ưu hóa 
             <h3 class="Hieu">Senior Software Engineer at Google</h3>
             </h4>
             <p data-aos="fade-right">
-            "Nguyễn Quang Hiếu là một Senior tài năng tại Google, với sự đam mê, kiến thức sâu rộng và tinh thần sáng tạo. Anh đã đóng góp quan trọng vào sự phát triển của nhiều dự án quan trọng của Google và là nguồn cảm hứng cho đồng nghiệp. Đồng thời, Hiếu cũng là một người bạn đồng hành đáng tin cậy và sẵn lòng chia sẻ kiến thức để giúp mọi người phát triển"
+            "
+Nguyễn Quang Hiếu là một Senior Software Engineer chuyên về Frontend tại Google, với sự chuyên môn sâu rộng và kinh nghiệm dày dặn trong việc phát triển các ứng dụng web tại một trong những công ty công nghệ hàng đầu thế giới.
+
+Với vai trò là một Senior Software Engineer Frontend, Hiếu đã tham gia vào việc phát triển các sản phẩm và dịch vụ trên nền tảng web của Google, đảm bảo rằng trải nghiệm người dùng luôn được tối ưu và đáp ứng đầy đủ các tiêu chí về hiệu suất, tính năng và thiết kế.
+
+Hiếu có kiến thức vững vàng về các công nghệ và framework Frontend hàng đầu như React, Angular, hoặc Vue.js, cũng như về các tiêu chuẩn web và các công cụ phát triển liên quan. Anh ta luôn cập nhật và áp dụng những tiến bộ mới nhất trong lĩnh vực Frontend để mang lại những trải nghiệm người dùng tốt nhất"
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -177,7 +182,7 @@ Minh cũng có khả năng thiết kế cơ sở dữ liệu và tối ưu hóa 
             >
               Pham Gia Huy
             </h3>
-            <a href="#"><img src="https://i.imgur.com/vjbHZfq.jpeg" className="timeline-image4" alt="Huy" /></a>
+            <a href="#"><img src="https://i.imgur.com/xQWUPUj.jpeg" className="timeline-image4" alt="Huy" /></a>
             <h4
               className="vertical-timeline-element-subtitle"
               data-aos="fade-right"
